@@ -1,2 +1,6 @@
-- 👋 Hi, I’m @ayersdecker
-C#, C, C++, Py, and HTML
+- 👋 Hi, I’m Decker A.
+- Shoot me an email ( ayersdecker@gmail.com )
+- IG: iamdeckerayers FB: Decker Ayers LI: Decker Ayers DISCORD: Decker Ayers#6252 BID: DeckerAyers
+- New York based programming major
+- Expirience with Unity, Android, and Arduino
+- Part of RIT's Mobile Application Development + Web and Mobile Computing
