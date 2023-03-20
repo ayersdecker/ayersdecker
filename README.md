@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Decker A.
+- 👋 Hi, I’m Decker Ayers
 - Shoot me an email ( ayersdecker@gmail.com )
-- IG: iamdeckerayers FB: Decker Ayers LI: Decker Ayers DISCORD: Decker Ayers#6252 BID: DeckerAyers
-- New York based programming major
-- Expirience with Unity, Android, and Arduino
-- Part of RIT's Mobile Application Development + Web and Mobile Computing
+- New York based programming student
+- Expirience with C/C++, C#, XAML, HTML/CSS, PHP, mySQL, MAUI, Xamarin.Forms, and JSON / REST
+- Currently Learning Python and JavaScript 
+- Part of RIT's Mobile Application Development program
