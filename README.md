@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Decker Ayers
-- Shoot me an email ( ayersdecker@gmail.com )
-- New York based programming student
-- Expirience with C/C++, C#, XAML, HTML/CSS, PHP, mySQL, MAUI, Xamarin.Forms, and JSON / REST
-- Currently Learning Python and JavaScript 
-- Part of RIT's Mobile Application Development program
+## Decker Ayers
+
+Welcome to my Github!
+
+I try to publish most of my programming work 
