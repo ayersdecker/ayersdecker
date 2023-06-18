@@ -9,7 +9,7 @@ An AI-powered application that allows users to either type/paste in a text, or c
 
 ```For Developers:``` More Development Information (other than code) can be found here -> https://ayersdecker.github.io/Text2Txt-App/ 
 
-Technologies used Within: Tesseract OCR (with English Libraries), OpenAi Davinci Model 3
+```Technologies used Within:``` Tesseract OCR (with English Libraries), OpenAi Davinci Model 3
 
 <img src ="https://github.com/ayersdecker/ayersdecker/assets/69859630/c4ceb8ca-853a-43e0-900d-006cf153d1a4" width=100 >
 <img src ="https://github.com/ayersdecker/ayersdecker/assets/69859630/e353f710-ea95-4724-ac87-787f58913628" width=100 >
@@ -21,7 +21,7 @@ A simple weather application that will retrieve the current weather conditions c
 
 ```For Developers:``` If you want to use the code from this application, I encourage you to check out the OpenWeatherLite-Nuget Repository. This is optimized for use in C# but can be relativily understood for other languages too!
 
-Technologies used Within: OpenWeather API, Android Device API
+```Technologies used Within:``` OpenWeather API, Android Device API
 
 <img src ="https://github.com/ayersdecker/ayersdecker/assets/69859630/4b6138aa-b260-434d-b4fc-587aa241e766" width=100 >
 <img src ="https://github.com/ayersdecker/ayersdecker/assets/69859630/81eb27b1-605b-4e4f-91dc-e09030cf7085" width=100 >
