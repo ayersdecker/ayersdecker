@@ -13,6 +13,13 @@ An AI-powered application that allows users to either type/paste in a text, or c
 
 ```Technologies used Within:``` Tesseract OCR (with English Libraries), OpenAi Davinci Model 3
 
+## Solve.AI
+>https://github.com/ayersdecker/Solve.AI-App
+
+Super Secret Project that will eventually merge OCR and AI together to solve word-based problems. Currently under development, Text prompts are functioning. UI is clunky and funky but, like, who gives 🤷‍♂️
+
+```Beta Testers: ``` If you feel like testing this application out, go ahead! Please send me any feedback you can! ayersdecker@gmail.com 
+
 ## OpenWeatherLite
 >https://github.com/ayersdecker/OpenWeatherLite-App
 
