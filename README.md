@@ -13,10 +13,6 @@ An AI-powered application that allows users to either type/paste in a text, or c
 
 ```Technologies used Within:``` Tesseract OCR (with English Libraries), OpenAi Davinci Model 3
 
-<img src ="https://github.com/ayersdecker/ayersdecker/assets/69859630/c9519e14-053d-417e-84a1-91d107b4114e" width=100 >
-<img src ="https://github.com/ayersdecker/ayersdecker/assets/69859630/c4ceb8ca-853a-43e0-900d-006cf153d1a4" width=100 >
-<img src ="https://github.com/ayersdecker/ayersdecker/assets/69859630/e353f710-ea95-4724-ac87-787f58913628" width=100 >
-
 ## OpenWeatherLite
 >https://github.com/ayersdecker/OpenWeatherLite-App
 
@@ -26,15 +22,8 @@ A simple weather application that will retrieve the current weather conditions c
 
 ```Technologies used Within:``` OpenWeather API, Android Device API
 
-<img src ="https://github.com/ayersdecker/ayersdecker/assets/69859630/4b6138aa-b260-434d-b4fc-587aa241e766" width=100 >
-<img src ="https://github.com/ayersdecker/ayersdecker/assets/69859630/81eb27b1-605b-4e4f-91dc-e09030cf7085" width=100 >
-<img src ="https://github.com/ayersdecker/ayersdecker/assets/69859630/4e6dc185-0ab0-4baf-9848-7a8e01050099" width=100 >
-
 ## DadJokes App
 >https://github.com/ayersdecker/DadJokes-App
 
 Yep, I made a quick way to find new jokes to add to your arsenal! The application allows you to recieve a list of common jokes or search a specific joke topic to better suits a target audience. The application has only been tested on Android at the moment, but future support for iOS is coming July 2023. 
-
-<img src ="https://github.com/ayersdecker/ayersdecker/assets/69859630/85a49cd9-d444-430b-bb22-8a51601de69d" width=100 >
-<img src ="https://github.com/ayersdecker/ayersdecker/assets/69859630/c3d1e891-732c-4364-b805-bd997ffd8d27" width=100 >
 
