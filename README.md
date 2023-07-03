@@ -2,7 +2,7 @@
 
 Software Developer focused on Mobile Application Development at RIT CAT Lab
 
-My works mostly include .NET MAUI (**C#**, **XAML**) or .NET APIs, but I have been known to branch out to **Swift**, **Java**, and **Python**
+My works mostly include .NET MAUI (**C#**, **XAML**) or .NET APIs, but I have been known to branch out to **C/C++**, **Swift**, **Java**, **JavaScript**, and **Python**
 
 ## Text2Txt
 >https://github.com/ayersdecker/Text2Txt-App
@@ -18,7 +18,7 @@ An AI-powered application that allows users to either type/paste in a text, or c
 
 Super Secret Project that will eventually merge OCR and AI together to solve word-based problems. Currently under development, Text prompts are functioning. UI is clunky and funky but, like, who gives 🤷‍♂️
 
-```Beta Testers: ``` If you feel like testing this application out, go ahead! Please send me any feedback you can! ayersdecker@gmail.com 
+```Beta Testers:``` If you feel like testing this application out, go ahead! Please send me any feedback you can! ayersdecker@gmail.com 
 
 ## OpenWeatherLite
 >https://github.com/ayersdecker/OpenWeatherLite-App
