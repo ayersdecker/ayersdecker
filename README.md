@@ -1,36 +1,41 @@
-## Decker Ayers
+### Decker Ayers
+<hr>
 
-Software Developer focused on Mobile Application Development at RIT CAT Lab
+Software Developer focused on Mobile Application Development
 
-My works mostly include .NET MAUI (**C#**, **XAML**) or .NET APIs, but I have been known to branch out to **C/C++**, **Swift**, **Java**, **JavaScript**, and **Python**
+<hr>
 
-## Text2Txt
->https://github.com/ayersdecker/Text2Txt-App
+### Mobile Applications
 
-An AI-powered application that allows users to either type/paste in a text, or capture a photo, to be simplified for easier reading. This app helps those who are new to reading English, or have a hard time understanding complex text, to better understand what they desire.
+- [SMARTSign - Mobile Solution for the SMARTSign Project 🤙](https://github.com/ayersdecker/SMARTSign-App)
+- [Text2Txt - OCR Typed Language [English] Simplification Tool 📖](https://github.com/ayersdecker/Text2Txt-App)
+- [Solve.AI - Using OpenAI GPT 4.0 to Solve Problems on the Phone 🧠](https://github.com/ayersdecker/Solve.AI-App)
+- [OpenWeatherLite - Free Local Weather Information 🌧️](https://github.com/ayersdecker/OpenWeatherLite-App)
+- [Dad Jokes - A Simple UI for Searchable Dad Jokes 😆](https://github.com/ayersdecker/DadJokes-App)
 
-```For Developers:``` More Development Information (other than code) can be found here -> https://ayersdecker.github.io/Text2Txt-App/ 
+<hr>
 
-```Technologies used Within:``` Tesseract OCR (with English Libraries), OpenAi Davinci Model 3
+### Websites 
 
-## Solve.AI
->https://github.com/ayersdecker/Solve.AI-App
+- [ClearCaptions - Website - Simple Website Providing Live Captions :accessibility:](https://github.com/ayersdecker/ClearCaptions-Site)
+- [Portfolio - My Personal Website Showcasing my Web / Moblie Development Skills 🖥️](https://github.com/ayersdecker/Portfolio-Site)
 
-Super Secret Project that will eventually merge OCR and AI together to solve word-based problems. Currently under development, Text prompts are functioning. UI is clunky and funky but, like, who gives 🤷‍♂️
+<hr>
 
-```Beta Testers:``` If you feel like testing this application out, go ahead! Please send me any feedback you can! ayersdecker@gmail.com 
+### Other Projects
 
-## OpenWeatherLite
->https://github.com/ayersdecker/OpenWeatherLite-App
+- [TP-Link Cloud Console - Allows Users to Control TP-Link Devices (Unofficially) 💡](https://github.com/ayersdecker/TPLinkControl-Console)
+- [ASL.ML Research - Using Google MediaPipe to track Pose and Hand Landmarks ✋](https://github.com/ayersdecker/ASLML-Python)
+- [FlappyTiger - Flappy Bird Clone in Unity 🐯](https://github.com/ayersdecker/FlappyTiger-Game)
+- [Assets - My Personal Collection of 2D/3D Assets 🎨](https://github.com/ayersdecker/Assets)
 
-A simple weather application that will retrieve the current weather conditions closest to the user. This application communicates with stations located across the United States free of charge. The application has only been tested on Android at the moment, but future support for iOS is coming July 2023. 
+``` There are more projects not linked within this README ```
 
-```For Developers:``` If you want to use the code from this application, I encourage you to check out the OpenWeatherLite-Nuget Repository. This is optimized for use in C# but can be relativily understood for other languages too!
+<hr>
 
-```Technologies used Within:``` OpenWeather API, Android Device API
+### Terms of Use
 
-## DadJokes App
->https://github.com/ayersdecker/DadJokes-App
+Feel free to use any of my works in your own personal projects, just please credit my Github or Name ( ayersdecker or Decker Ayers )
 
-Yep, I made a quick way to find new jokes to add to your arsenal! The application allows you to recieve a list of common jokes or search a specific joke topic to better suits a target audience. The application has only been tested on Android at the moment, but future support for iOS is coming July 2023. 
+If you wish to use my work in a potentially commercial product, please contact me first ( I reply quick! ) ayersdecker@gmail.com 
 
