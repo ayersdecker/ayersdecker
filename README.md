@@ -1,5 +1,7 @@
 ### Decker Ayers
 <hr>
+[![Visual Studio](https://img.shields.io/badge/--6C33AF?logo=visual%20studio)](https://visualstudio.microsoft.com/) 
+[![.NET](https://img.shields.io/badge/--512BD4?logo=.net&logoColor=ffffff)](https://dotnet.microsoft.com/) 
 
 Software Developer focused on Mobile Application Development
 
@@ -17,7 +19,7 @@ Software Developer focused on Mobile Application Development
 
 ### Websites 
 
-- [ClearCaptions - Website - Simple Website Providing Live Captions :accessibility:](https://github.com/ayersdecker/ClearCaptions-Site)
+- [ClearCaptions - Simple Website Providing Live Captions :accessibility:](https://github.com/ayersdecker/ClearCaptions-Site)
 - [Portfolio - My Personal Website Showcasing my Web / Moblie Development Skills 🖥️](https://github.com/ayersdecker/Portfolio-Site)
 
 <hr>
