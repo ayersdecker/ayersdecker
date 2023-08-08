@@ -1,12 +1,6 @@
-### Decker Ayers
-
-<hr>
-
-
+## Decker Ayers
 
 Software Developer focused on Mobile Application Development [![Visual Studio](https://img.shields.io/badge/--6C33AF?logo=visual%20studio)](https://visualstudio.microsoft.com/) [![.NET](https://img.shields.io/badge/--512BD4?logo=.net&logoColor=ffffff)](https://dotnet.microsoft.com/) 
-
-<hr>
 
 ### Mobile Applications
 
@@ -16,14 +10,10 @@ Software Developer focused on Mobile Application Development [![Visual Studio](h
 - [OpenWeatherLite - Free Local Weather Information 🌧️](https://github.com/ayersdecker/OpenWeatherLite-App)
 - [Dad Jokes - A Simple UI for Searchable Dad Jokes 😆](https://github.com/ayersdecker/DadJokes-App)
 
-<hr>
-
 ### Websites 
 
 - [ClearCaptions - Simple Website Providing Live Captions :accessibility:](https://github.com/ayersdecker/ClearCaptions-Site)
 - [Portfolio - My Personal Website Showcasing my Web / Moblie Development Skills 🖥️](https://github.com/ayersdecker/Portfolio-Site)
-
-<hr>
 
 ### Other Projects
 
@@ -33,8 +23,6 @@ Software Developer focused on Mobile Application Development [![Visual Studio](h
 - [Assets - My Personal Collection of 2D/3D Assets 🎨](https://github.com/ayersdecker/Assets)
 
 ``` There are more projects not linked within this README ```
-
-<hr>
 
 ### Terms of Use
 
