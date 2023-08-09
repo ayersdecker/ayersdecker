@@ -2,7 +2,7 @@
 
 Software Developer focused on Mobile Application Development [![Visual Studio](https://img.shields.io/badge/--6C33AF?logo=visual%20studio)](https://visualstudio.microsoft.com/) [![.NET](https://img.shields.io/badge/--512BD4?logo=.net&logoColor=ffffff)](https://dotnet.microsoft.com/) 
 
-### Mobile Applications
+### Mobile Apps
 
 - [SMARTSign - Mobile Solution for the SMARTSign Project 🤙](https://github.com/ayersdecker/SMARTSign-App)
 - [Text2Txt - OCR Typed Language [English] Simplification Tool 📖](https://github.com/ayersdecker/Text2Txt-App)
