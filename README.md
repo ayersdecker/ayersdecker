@@ -19,9 +19,9 @@ Student Software Developer focused on Mobile Application Development 📱
 
 ### Other Projects
 
+- [FlappyTiger - Flappy Bird Clone in Unity 🐯](https://github.com/ayersdecker/FlappyTiger-Embed)
 - [TP-Link Cloud Console - Allows Users to Control TP-Link Devices (Unofficially) 💡](https://github.com/ayersdecker/TPLinkControl-Console)
 - [ASL.ML Research - Using Google MediaPipe to track Pose and Hand Landmarks ✋](https://github.com/ayersdecker/ASLML-Python)
-- [FlappyTiger - Flappy Bird Clone in Unity 🐯](https://github.com/ayersdecker/FlappyTiger-Embed)
 - [Assets - My Personal Collection of 2D/3D Assets 🎨](https://github.com/ayersdecker/Assets)
 
 ``` There are more projects not linked within this README ```
