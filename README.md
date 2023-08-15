@@ -29,6 +29,8 @@
 
 ``` There are more projects not linked within this README ```
 
+<img src="https://github.com/ayersdecker/ProfileCard/blob/master/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Decker Ayer's Stats"><img src="https://github.com/ayersdecker/ProfileCard/blob/master/profile-summary-card-output/tokyonight/3-stats.svg" alt="Decker Ayer's Stats">
+
 ## Terms of Use
 
 Feel free to use any of my works in your own personal projects, just please credit my Github or Name ( ayersdecker or Decker Ayers )
