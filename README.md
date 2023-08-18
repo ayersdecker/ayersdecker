@@ -3,7 +3,8 @@
 <img src="https://github.com/ayersdecker/ProfileCard/blob/master/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Decker Ayer's Stats">
 
 
-
+## Notebook
+📑 [Notebook - My Programming Notebook (Projects, Learning, Ideas)](https://github.com/ayersdecker/Notebook)
 
 
 ## Mobile Apps
