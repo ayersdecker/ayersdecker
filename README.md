@@ -9,6 +9,7 @@
 
 ## Mobile Apps
 
+📰  [Upcoming - Latest News in Technology brought to the Phone - Live](https://github.com/ayersdecker/Upcoming-App)<br>
 🤙  [SMARTSign - Mobile Solution for the SMARTSign Project](https://github.com/ayersdecker/SMARTSign-App)<br>
 📖  [Text2Txt - OCR Typed Language [English] Simplification Tool](https://github.com/ayersdecker/Text2Txt-App)<br>
 🧠  [Solve.AI - Using OpenAI GPT 4.0 to Solve Problems on the Phone](https://github.com/ayersdecker/Solve.AI-App)<br>
