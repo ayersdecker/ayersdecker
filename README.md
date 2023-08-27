@@ -1,4 +1,4 @@
-## Decker Ayers / <strong>www.deckerayers.com</strong>  
+## Decker Ayers - <strong>www.deckerayers.com</strong>  
 
 
 <img src="https://github.com/ayersdecker/ProfileCard/blob/master/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Decker Ayer's Stats">
