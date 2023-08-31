@@ -4,9 +4,6 @@
 <img src="https://github.com/ayersdecker/ProfileCard/blob/master/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Decker Ayer's Stats">
 
 
-## Notebook
-📑 [Notebook - My Programming Notebook (Projects, Learning, Ideas)](https://github.com/ayersdecker/Notebook)
-
 
 ## Mobile Apps
 
@@ -22,6 +19,9 @@
 ⚛️ [Reflex - React Js Practice Site / Monitoring Tools](https://github.com/ayersdecker/Reflex-Site/)<br>
 :accessibility:  [ClearCaptions - Simple Website Providing Live Captions](https://github.com/ayersdecker/ClearCaptions-Site)<br>
 🖥️ [Portfolio - My Personal Website Showcasing my Web / Moblie Development Skills](https://github.com/ayersdecker/Portfolio-Site)<br>
+
+## Notebook
+📑 [Notebook - My Programming Notebook (Projects, Learning, Ideas)](https://github.com/ayersdecker/Notebook)
 
 ## Other Projects
 
