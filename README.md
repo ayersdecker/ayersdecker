@@ -1,9 +1,6 @@
 ## Decker Ayers - <strong>www.deckerayers.com</strong>  
 
-
 <img src="https://github.com/ayersdecker/ProfileCard/blob/master/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Decker Ayer's Stats">
-
-
 
 ## Mobile Apps
 
@@ -38,5 +35,5 @@
 
 Feel free to use any of my works in your own personal projects, just please credit my Github or Name ( ayersdecker or Decker Ayers )
 
-If you wish to use my work in a potentially commercial product, please contact me first ( I reply quick! ) ayersdecker@gmail.com 
+If you wish to use my work in a potentially commercial product, please contact me first ( I reply quick! ) ayersdecker@gmail.com or https://deckerayers.com
 
