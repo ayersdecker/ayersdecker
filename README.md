@@ -11,6 +11,10 @@
 🌧️  [OpenWeatherLite - Free Local Weather Information](https://github.com/ayersdecker/OpenWeatherLite-App)<br>
 😆  [Dad Jokes - A Simple UI for Searchable Dad Jokes](https://github.com/ayersdecker/DadJokes-App)<br>
 
+## Desktop Apps
+
+🪴  [Loficus - Desktop Lofi Music Streaming App](https://github.com/ayersdecker/Loficus-App)
+
 ## Websites 
 
 ⚛️ [Reflex - React Js Practice Site / Monitoring Tools](https://github.com/ayersdecker/Reflex-Site/)<br>
