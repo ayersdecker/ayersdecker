@@ -4,7 +4,7 @@
 
 ## Mobile Apps
 
-🌊  [WaterReady - Capstone Project providing water weather information for Rochester, NY](https://github.com/ayersdecker/WaterReady-App)<br>
+🌊  [ReadyWaters - Capstone Project providing water weather information for Rochester, NY](https://github.com/ayersdecker/ReadyWaters-App)<br>
 📰  [Upcoming - Latest News in Technology brought to the Phone - Live](https://github.com/ayersdecker/Upcoming-App)<br>
 🤙  [ASL Dictionary - Mobile Solution for the SMARTSign Project](https://github.com/ayersdecker/SMARTSign-App)<br>
 📖  [Text2Txt - OCR Typed Language [English] Simplification Tool](https://github.com/ayersdecker/Text2Txt-App)<br>
