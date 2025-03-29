@@ -4,10 +4,6 @@
 
 <img src="https://github.com/ayersdecker/ProfileCard/blob/master/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Decker Ayer's Stats">
 
-## Store
-
-🏪 [Circuit Trend - Your trending tech destination!](https://circuittrend.store)
-
 ##  Apps
 
 🌊  [ReadyWaters - Capstone Project providing water weather information for Rochester, NY](https://github.com/ayersdecker/ReadyWaters-App)<br>
