@@ -6,7 +6,7 @@
 
 ###  Personal
 🖥️  [Portfolio - My Personal Website Showcasing my Web / Moblie Development Skills](https://github.com/ayersdecker/Portfolio-Site)<br>
-
+🪴  [Loficus - Desktop Lofi Music Streaming App](https://github.com/ayersdecker/Loficus-App)<br>
 
 ### Research
 💡 [TP-Link Cloud Console - Allows Users to Control TP-Link Devices (Unofficially)](https://github.com/ayersdecker/TPLinkControl-Console)<br>
@@ -18,7 +18,6 @@
 🧠  [Solve.AI - Using OpenAI GPT 4.0 to Solve Problems on the Phone](https://github.com/ayersdecker/Solve.AI-App)<br>
 🌊  [ReadyWaters - Capstone Project providing water weather information for Rochester, NY](https://github.com/ayersdecker/ReadyWaters-App)<br>
 ✍️  [Drawing - Simple Drawing App](https://github.com/ayersdecker/Drawing-App)<br>
-🪴  [Loficus - Desktop Lofi Music Streaming App](https://github.com/ayersdecker/Loficus-App)<br>
 📰  [Upcoming - Latest News in Technology brought to the Phone - Live](https://github.com/ayersdecker/Upcoming-App)<br>
 📖  [Text2Txt - OCR Typed Language [English] Simplification Tool](https://github.com/ayersdecker/Text2Txt-App)<br>
 🌧️  [OpenWeatherLite - Free Local Weather Information](https://github.com/ayersdecker/OpenWeatherLite-App)<br>
