@@ -7,6 +7,7 @@
 ###  Personal
 🖥️  [Portfolio - My Personal Website Showcasing my Web / Moblie Development Skills](https://github.com/ayersdecker/Portfolio-Site)<br>
 🪴  [Loficus - Desktop Lofi Music Streaming App](https://github.com/ayersdecker/Loficus-App)<br>
+🌜 [Paxetica. - Aesthetic, Floursih, Initium, Enzyme](https://github.com/ayersdecker/paxetica)<br>
 
 ### Research
 💡 [TP-Link Cloud Console - Allows Users to Control TP-Link Devices (Unofficially)](https://github.com/ayersdecker/TPLinkControl-Console)<br>
