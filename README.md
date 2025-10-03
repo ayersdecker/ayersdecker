@@ -6,7 +6,7 @@
 
 ###  Personal
 🖥️  [Portfolio - My Personal Website Showcasing my Web / Moblie Development Skills](https://github.com/ayersdecker/Portfolio-Site)<br>
-💸  [Decker's Stock Monitor - See Trending Stocks with Best Short-Sell Forecasts](https://ayersdecker.github.io/Decker-Stock-Monitor/)<br>
+💸  [Decker's Stock Monitor - See Trending Stocks with Best Short-Sell Forecasts](https://github.com/ayersdecker/Decker-Stock-Monitor/)<br>
 🪴  [Loficus - Desktop Lofi Music Streaming App](https://github.com/ayersdecker/Loficus-App)<br>
 🌜 [Paxetica. - Aesthetic, Floursih, Initium, Enzyme](https://github.com/ayersdecker/paxetica)<br>
 
