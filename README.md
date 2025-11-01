@@ -8,6 +8,7 @@
 🖥️  [Portfolio - My Personal Website Showcasing my Web / Moblie Development Skills](https://github.com/ayersdecker/Portfolio-Site)<br>
 💸  [Decker's Stock Monitor - See Trending Stocks with Best Short-Sell Forecasts](https://github.com/ayersdecker/Decker-Stock-Monitor/)<br>
 🪴  [Loficus - Web Music Streaming App](https://github.com/ayersdecker/Loficus)<br>
+💮  [Flowers - Simple site to find nearby flowers and gifts](https://ayersdecker.github.io/flowers/)<br>
 🪴  [Loficus - Desktop Lofi Music Streaming App](https://github.com/ayersdecker/Loficus-App)<br>
 
 ### Research
