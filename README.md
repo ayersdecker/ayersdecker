@@ -10,6 +10,7 @@
 🪴  [Loficus - Web Music Streaming App](https://github.com/ayersdecker/Loficus)<br>
 💮  [Flowers - Simple site to find nearby flowers and gifts](https://ayersdecker.github.io/flowers/)<br>
 🪴  [Loficus - Desktop Lofi Music Streaming App](https://github.com/ayersdecker/Loficus-App)<br>
+🐙  [Oliver the Octopus - Feed and Play with Oliver the Octopus](https://github.com/ayersdecker/octopus-playground)<br>
 
 ### Research
 💡 [TP-Link Cloud Console - Allows Users to Control TP-Link Devices (Unofficially)](https://github.com/ayersdecker/TPLinkControl-Console)<br>
