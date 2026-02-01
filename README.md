@@ -11,7 +11,7 @@ Binghamton, NY | [deckerayers.com](https://www.deckerayers.com) | ayersdecker@gm
 
 ### Mobile Apps
 - **[GamePlan](https://github.com/ayersdecker/gameplan)** - Location-based event coordination with end-to-end encryption (React Native, Expo, Firebase)
-- **[Solve.AI](https://github.com/ayersdecker/Solve.AI-App)** - GPT-4 powered problem solver on iOS
+- **[Solve.AI](https://github.com/ayersdecker/Solve.AI-App)** - GPT-4 powered problem solver on iOS and Android (Modern Ship)
 - **[Loficus](https://github.com/ayersdecker/Loficus-App)** - Desktop lofi music streaming app
 
 ### Web Apps
