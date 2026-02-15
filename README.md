@@ -1,13 +1,16 @@
 # Decker Ayers
+**Web and Mobile Developer | Accessibility Advocate | Builder of Things**
 
-**Web and Mobile Developer | Accessibility Advocate | Builder of Things**  
 Binghamton, NY | [deckerayers.com](https://www.deckerayers.com) | ayersdecker@gmail.com
 
----
 
 <img src="https://github.com/ayersdecker/ProfileCard/blob/master/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="GitHub Stats">
 
----
+
+## Featured Projects
+
+### SaaS Platforms
+- **[RankKit](https://github.com/ayersdecker/rankkit)** - AI-powered document optimization platform with ATS resume matching and social media SEO (React 19, TypeScript, Firebase, OpenAI GPT-4)
 
 ### Mobile Apps
 - **[GamePlan](https://github.com/ayersdecker/gameplan)** - Location-based event coordination with end-to-end encryption (React Native, Expo, Firebase)
@@ -16,46 +19,37 @@ Binghamton, NY | [deckerayers.com](https://www.deckerayers.com) | ayersdecker@gm
 
 ### Web Apps
 - **[Loficus Web](https://github.com/ayersdecker/Loficus)** - Browser-based lofi music player
-- **[Flowers](https://ayersdecker.github.io/flowers/)** - Local flower shop finder
-- **[Decker's Stock Monitor](https://github.com/ayersdecker/Decker-Stock-Monitor/)** - Stock trend forecasting
 
 ### Accessibility & Research
 - **[ASL.ML](https://github.com/ayersdecker/ASLML-Python)** - Sign language recognition using Google MediaPipe
 - **[ClearCaptions](https://github.com/ayersdecker/ClearCaptions-Site)** - Real-time live captioning web app
 - **[Text2Txt](https://github.com/ayersdecker/Text2Txt-App)** - OCR-based text simplification tool
 
-### College Projects & Learning
+### College Projects
 - **[ReadyWaters](https://github.com/ayersdecker/ReadyWaters-App)** - Water weather info app (Capstone project)
-- **[Upcoming](https://github.com/ayersdecker/Upcoming-App)** - Real-time tech news aggregator
-- **[FlappyTiger](https://github.com/ayersdecker/FlappyTiger-Embed)** - Flappy Bird clone in Unity WebGL
 
----
 
-**Mobile:** .NET MAUI/Xamarin, Swift, SwiftUI, React Native, Expo
+## Tech Stack
+
+**Mobile:** .NET MAUI/Xamarin, Swift, SwiftUI, React Native, Expo  
 **Web:** React, TypeScript, Firebase, Node.js  
+**AI/ML:** OpenAI GPT-4, Google MediaPipe  
 **Other:** Unity (C#), Python, .NET, SQL  
 **Focus:** Accessibility (VoiceOver, WCAG), iOS development, rapid prototyping
 
----
 
-<img src="https://github.com/ayersdecker/ProfileCard/blob/master/profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats"> <img src="https://github.com/ayersdecker/ProfileCard/blob/master/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time">
+<img src="https://github.com/ayersdecker/ProfileCard/blob/master/profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats"><img src="https://github.com/ayersdecker/ProfileCard/blob/master/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time">
 
----
 
-Check out my [repositories](https://github.com/ayersdecker?tab=repositories) for 60+ projects including:
-- [Oliver the Octopus](https://github.com/ayersdecker/octopus-playground) - Interactive octopus feeding game
-- [TP-Link Cloud Console](https://github.com/ayersdecker/TPLinkControl-Console) - Unofficial TP-Link device control
-- [Drawing App](https://github.com/ayersdecker/Drawing-App) - Simple canvas drawing tool
-- [Dad Jokes](https://github.com/ayersdecker/DadJokes-App) - Searchable dad jokes database
-- [CodeWithDecker](https://ayersdecker.github.io/Code-Blog/) - Programming tutorials and learning resources
+## More Projects
+
+Check out my [repositories](https://github.com/ayersdecker?tab=repositories) for 60+ projects exploring accessibility, AI integration, and practical tools.
 
 ---
 
 ## Terms of Use
 
 **Personal projects:** Free to use with attribution (credit "Decker Ayers" or link to this profile)  
-**Commercial use:** Contact me first at ayersdecker@gmail.com  
-
----
-
+**Commercial use:** Contact me first at ayersdecker@gmail.com
 **Interested in working together?** Reach out via [email](mailto:ayersdecker@gmail.com) or check out my [portfolio](https://www.deckerayers.com).
+
