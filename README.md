@@ -19,6 +19,7 @@ Binghamton, NY | [deckerayers.com](https://www.deckerayers.com) | ayersdecker@gm
 
 ### Web Apps
 - **[Loficus Web](https://github.com/ayersdecker/Loficus)** - Browser-based lofi music player
+- **[Redtail](https://github.com/ayersdecker/cards)** -- MTG Collection Tracker / Builder
 
 ### Accessibility & Research
 - **[ASL.ML](https://github.com/ayersdecker/ASLML-Python)** - Sign language recognition using Google MediaPipe
