@@ -11,6 +11,8 @@ Binghamton, NY | [deckerayers.com](https://www.deckerayers.com) | ayersdecker@gm
 
 ### SaaS Platforms
 - **[RankKit](https://github.com/ayersdecker/rankkit)** - AI-powered document optimization platform with ATS resume matching and social media SEO (React 19, TypeScript, Firebase, OpenAI GPT-4)
+- **[CodeStep](https://github.com/ayersdecker/codestep)** - A place where programmers become Djs!
+- **[Bennett](https://github.com/ayersdecker/bennett)** - MCP Interface for Claude.ai Sonnet 4.5 / OpenAI ChatGPT 5.4
 
 ### Mobile Apps
 - **[GamePlan](https://github.com/ayersdecker/gameplan)** - Location-based event coordination with end-to-end encryption (React Native, Expo, Firebase)
